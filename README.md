@@ -1,6 +1,4 @@
-Here is a README.md template for the repository "badou01/Machine-Learning-projects," following best practices and popular templates for machine learning projects:[2][7][10]
 
-```
 # Machine-Learning-Projects
 
 ## About
