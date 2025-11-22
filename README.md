@@ -24,7 +24,7 @@ All code and experiments are in Jupyter Notebook format[attached_file:1].
 
 ## Features
 
-- Examples of ML algorithms and workflows[attached_file:1].
+- Examples of ML algorithms and projects.
 - Step-by-step notebooks for learning and experimentation.
 - Easy to extend for personal and academic use.
 
@@ -64,15 +64,3 @@ All code and experiments are in Jupyter Notebook format[attached_file:1].
 This project is open source and available for personal and educational use[attached_file:1].
 ```
 
-This template can be customized further as more projects or details are added to the repository.[7][2]
-
-[1](https://github.com/KalyanM45/Data-Science-Project-Readme-Template)
-[2](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
-[3](https://github.com/bhavintandel/ML-Project-Template)
-[4](https://github.com/topics/project-readme)
-[5](https://github.com/daniel-code/machine-learning-project-template)
-[6](https://github.com/YKatser/ml-project-template)
-[7](https://github.com/catiaspsilva/README-template)
-[8](https://github.com/topics/machine-learning-template)
-[9](https://github.com/othneildrew/Best-README-Template)
-[10](https://github.com/badou01/Machine-Learning-projects)
